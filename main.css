@@ -1,0 +1,40 @@
+body {
+    color: white;
+    background-color:#099988;
+    font-family: serif;
+    height: auto;
+    width: auto;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+    margin-right: 800px;
+    margin-left: 800px;
+    border-bottom: solid white 2px;
+    display:inline-block;
+}
+
+button {
+    display:inline-block;
+    background-color: #099988;
+    border-style: none;
+    border-bottom: solid 2px white;
+    color: white;
+    font-family: serif;
+    font-size: 15px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.header-logo {
+    font-size: 20px;
+    text-align: center;
+}
+
+.header-list {
+    font-size: 15px;
+    text-align: center;
+}
+
